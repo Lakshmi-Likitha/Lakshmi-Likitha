@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, React**
 
-- 📫 How to reach me <a href = "https://www.linkedin.com/in/lakshmilikitha/ ">**LinkedIn**</a>
+- 📫 How to reach me <a href = "[linkedin.com/in/lakshmilikitha/](https://www.linkedin.com/in/lakshmilikitha/) ">**LinkedIn**</a>
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1TTBSUHjYu7ka3TMUACliybQFT1CS4Qr1/view ">**Resume**</a>
 
@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lakshmilikitha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lakshmilikitha/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/lakshmi_likitha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/lakshmi_likitha/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lakshmilikitha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lakshmilikitha/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/lakshmi_likitha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/lakshmi_likitha/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
