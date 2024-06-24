@@ -17,7 +17,7 @@
 
 - 📫 How to reach me <a href = "[linkedin.com/in/lakshmilikitha/](https://www.linkedin.com/in/lakshmilikitha/) ">**LinkedIn**</a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1TTBSUHjYu7ka3TMUACliybQFT1CS4Qr1/view ">**Resume**</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hGDzn9MSiS5KRe2SXBuJwOGN-dSALW8F/view?usp=sharing">**Resume**</a>
 
 - ⚡ Fun fact **As a computer science student, I love solving many kinds of problems.**
 
